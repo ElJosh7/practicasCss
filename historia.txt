@@ -2,3 +2,4 @@ Esta es la historia de Javier
 Esta estudiando Git
 Y ahora pudo hacer commits a sus anteriores proyectos
 Y tambien va a ponerser las pilas 1h
+Ya aprendio a controlar su tiempo poniendo un temporizador
